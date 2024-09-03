@@ -15,4 +15,4 @@ Lastly, not the prize, but definitely the new experience, new memories, and the 
 ![Team Atluya](https://i.imghippo.com/files/4P2YJ1707653049.jpg) </br></br>
 ![Team Atluya](https://github.com/Amit-Gohel/Automatic-Drug-Dispenser-SIH/blob/master/photos/device.jpg) </br></br>
 
-youtube video:- ![youtube video](https://youtu.be/cEDuonxL6Co)
+youtube video:- https://youtu.be/cEDuonxL6Co
